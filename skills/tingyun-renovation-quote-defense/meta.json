@@ -1,0 +1,8 @@
+{
+  "name_zh": "装修报价单增项防守助手",
+  "desc_zh": "拆解装修报价单的五要素，标出按实结算与品牌不明的活口条款，算清增项风险并给出议价话术与合同条款补充建议",
+  "desc_en": "Use when the user asks to review a renovation quotation, worries about surprise add-on charges, or wants to know which line items are too vague. Breaks the quotation into six checkable elements, flags open-ended items such as settle-actual pricing or unspecified brands, estimates a rough add-on risk range, and produces negotiation scripts plus reference contract clauses to paste in. Does not appraise construction cost or give legal advice.",
+  "tags": ["装修", "报价单", "增项", "合同审查", "避坑", "装修维权"],
+  "category": "房产装修",
+  "version": "1.0.0"
+}

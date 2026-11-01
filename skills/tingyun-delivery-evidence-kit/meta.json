@@ -1,0 +1,8 @@
+{
+  "name_zh": "虚拟商品交付履约凭证助手",
+  "desc_zh": "交付时自动生成交付清单、件数核对、校验值与版本时间戳，让买家能自证、卖家能少纠纷",
+  "desc_en": "Use when the user sells digital products, templates or services and worries about refunds, complaints, or buyers claiming the delivery does not match the listing. Generates a delivery manifest listing every file with page and item counts, SHA-256 checksums, version and timestamp, cross-checks listing commitments against what was actually delivered, renders a buyer confirmation page and a consumer-friendly refund policy, and exports a printable checklist plus an audit CSV. Does not teach ways to evade platform rules and is not legal advice.",
+  "tags": ["虚拟商品", "交付管理", "防退款", "模板", "电商", "小商家"],
+  "category": "电商运营",
+  "version": "1.0.0"
+}

@@ -1,0 +1,8 @@
+{
+  "name_zh": "个体户年报与汇算填报自检助手",
+  "desc_zh": "逐项说明个体户年报与经营所得汇算的填报口径，填完自动跑十项风险自检，标出易被抽查的填法",
+  "desc_en": "Use when the user asks how to file an annual report for a sole proprietorship, what the asset and revenue fields mean, or worries about being audited after filing. Explains the reporting basis for each field, then runs a ten-item pre-submission self-check on the figures the user entered, including balance-sheet identity, revenue consistency, year-over-year volatility, staff counting basis, zero-tax-with-revenue cases and prior-year filing status, and lists what to confirm with the tax authority. Does not file on the user's behalf and is not a tax opinion or assurance report.",
+  "tags": ["个体户", "年报", "汇算清缴", "税务", "自检", "小微企业"],
+  "category": "财税合规",
+  "version": "1.0.0"
+}

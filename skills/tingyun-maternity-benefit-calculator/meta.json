@@ -1,0 +1,8 @@
+{
+  "name_zh": "生育津贴待遇测算与申领核对助手",
+  "desc_zh": "按参保地已公开口径算清生育津贴应发金额，查出单位少发少补的六类常见缺口，比对育儿补贴与个税抵扣，输出可打印的核对单",
+  "desc_en": "Use when the user asks how much maternity allowance (生育津贴) they can claim, how many maternity leave days they are entitled to, whether their employer underpaid the allowance, how to claim the national childcare subsidy (育儿补贴), or how to reconcile the maternity allowance against their maternity wages. Splits the allowance into three auditable segments - leave days, calculation base, and contribution continuity - citing the exact local rule for each, then computes the payable amount and flags the gap the employer should top up under the 'higher amount prevails' rule. Covers seven jurisdictions (Beijing, Shanghai, Foshan, Yangjiang, Ningde, Ningxia, Fangchenggang) with official source URLs and verification dates, plus the nationally uniform childcare subsidy (3600 CNY per child per year until age three) and the infant personal income tax deduction (2000 CNY per child per month). Output is a printable reconciliation sheet with the amount due and a checklist of what to ask the social insurance bureau. Does not determine eligibility, does not promise an amount, and does not replace determination by the local medical insurance authority.",
+  "tags": ["生育津贴", "产假工资", "育儿补贴", "生育保险", "待遇测算", "差额自查", "属地口径", "HR工具"],
+  "category": "个人办事与社保待遇",
+  "version": "1.0.0"
+}

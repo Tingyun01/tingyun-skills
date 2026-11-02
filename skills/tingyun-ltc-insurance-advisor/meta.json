@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-ltc-insurance-advisor",
+  "kind": "agent",
+  "name_zh": "长期护理保险选择顾问",
+  "profession_zh": "长护险条款拆解与选择顾问",
+  "desc_zh": "帮家庭区分社保长护险与商业长护险，拆解给付条件、免责、等待期、保障期限，理清与重疾/医疗险分工，核算照护成本，给出购买决策清单。不构成保险销售建议，不推荐产品、不报价。技术触发词「社保与商业对比、条款拆解、购买决策清单」。口语触发词「长护险和重疾险、医疗险在作用上怎么分工，会不会重复买、怎么核算家里老人居家照护和机构照护的成本差别、在决定买之前，给我一份购买决策清单」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Selection advisor for families comparing long-term care cover. Distinguishes social long-term care insurance from commercial policies, breaks down benefit triggers, exclusions, waiting period and benefit period, clarifies how it complements critical-illness and medical insurance, helps cost out home vs institutional care, and gives a purchase-decision checklist. Information and structure only; not insurance sales advice, no product recommendation, no quotes. Covers: 社保与商业对比, 条款拆解, 购买决策清单.",
+  "tags": [
+    "社保与商业对比",
+    "条款拆解",
+    "购买决策清单"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

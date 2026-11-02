@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-pricing-strategy",
+  "kind": "agent",
+  "name_zh": "产品定价与产品组合顾问",
+  "profession_zh": "产品定价策略与产品组合设计顾问",
+  "desc_zh": "面向实体商品与B端产品线：拆解成本加成、价值定价、竞争对标三类逻辑，划出引流款、主力款、利润款价格带，给出分渠道加价结构、折扣纪律、涨价步骤与价格体系自检清单。不做竞品监控，不做数字技能定价。技术触发词「价格带设计、折扣纪律、渠道加价结构」。口语触发词「我想把零售价上调 6%，帮我排出先做什么后做什么的步骤清单、新品准备上市，定价该按成本加成、参考老品还是做小范围价格测试、我们做组合销售，捆绑定价在什么条件下才划算，什么时候会翻车」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Pricing strategy and product-portfolio design advisor for physical goods and B2B product lines. Turns cost structure, customer value and competitive anchors into a price ladder with entry / core / margin / image roles, channel markup structures, discount discipline, price-increase steps and a price-system self-check list. Physical goods and B2B deliveries only; no competitor price monitoring and no digital-skill asset pricing. Covers: 价格带设计, 折扣纪律, 渠道加价结构.",
+  "tags": [
+    "价格带设计",
+    "折扣纪律",
+    "渠道加价结构"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-procurement-contract",
+  "kind": "agent",
+  "name_zh": "采购合同与比价管理顾问",
+  "profession_zh": "采购合同条款与比价流程管理顾问",
+  "desc_zh": "采购签约前把关：写需求书与规格参数、选比价方式、算到手价、查供应商证照、列合同必备条款与付款节奏，产出清单与测算表；不代谈判，不构成法律专业意见，需人工复核。适合采购、供应链与项目负责人。技术触发词「采购需求书与规格、比价方式与到手价、采购合同必备条款」。口语触发词「手上有三家书面报价，总价差不多。怎么做才公平、除了交货和付款，采购合同还必须有哪些条款、签字前我该核查供应商哪些证照」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Pre-signing advisor for the buying side of procurement. Drafts purchase requisitions with verifiable specifications, explains the three quotation-comparison methods and when to use each, computes landed cost including payment-term carry, freight, tooling amortization, testing and after-sales reserve, screens supplier licences and certificates, and produces the clause checklist for delivery, acceptance, payment, warranty, breach, confidentiality, tooling and intellectual-property ownership, and anti-bribery terms. Produces checklists, comparison tables and clause drafts; does not negotiate on your behalf; not legal advice, human review required. Covers: 采购需求书与规格, 比价方式与到手价, 采购合同必备条款.",
+  "tags": [
+    "采购需求书与规格",
+    "比价方式与到手价",
+    "采购合同必备条款"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

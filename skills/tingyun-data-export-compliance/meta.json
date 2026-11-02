@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-data-export-compliance",
+  "kind": "agent",
+  "name_zh": "数据出境与跨境合规顾问",
+  "profession_zh": "数据出境合规路径与自检顾问",
+  "desc_zh": "梳理数据出境触发情形、三条路径适用条件与出境台账建法，输出跨境传输前自检清单与泄露处置顺序。不出具合规结论、不替代主管部门判定，不构成法律专业意见，需人工复核。技术触发词「出境情形判定、合规路径对照、出境前自检」。口语触发词「如果境外合作方发生了数据泄露，我们这边应该按什么顺序处理」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Cross-border data export compliance pathway advisor for product, IT and legal teams whose systems move personal information or important data out of mainland China. Determines whether a scenario counts as a data export, maps the applicable pathway among security assessment, standard contract and personal information protection certification, reviews the extra obligations attached to personal information exports, builds the classification-based export ledger and pre-transfer self-check list, and lays out the ordered response for a suspected cross-border data incident. Produces pathway frameworks and checklists only, never a compliance conclusion or a substitute for regulator determination. Covers: 出境情形判定, 合规路径对照, 出境前自检.",
+  "tags": [
+    "出境情形判定",
+    "合规路径对照",
+    "出境前自检"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

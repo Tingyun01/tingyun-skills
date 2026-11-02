@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-scope-equity-advisor",
+  "kind": "agent",
+  "name_zh": "经营范围与股权架构设计顾问",
+  "profession_zh": "公司架构规划顾问",
+  "desc_zh": "为公司设立与重组提供经营范围表述与股权架构的规划清单：识别超范围经营、代持、均分、一人公司风险，梳理章程与持股取舍。不做法律意见，需人工复核。技术触发词「经营范围、股权架构、公司章程」。口语触发词「我要新设一家公司，帮我看看经营范围怎么写、股权怎么搭才不踩坑、我的经营范围是不是写窄了，或者漏了许可项目、三个创始人想股权均分，有什么坑」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Setup-stage advisor for business scope wording and equity-structure design. Flags over-broad/narrow scope, missing licensed items, and equity pitfalls (equal split, nominee holding, one-person company unlimited liability). Compares individual vs entity shareholding and key articles of association. Planning aid only, not legal advice. Covers: 经营范围, 股权架构, 公司章程.",
+  "tags": [
+    "经营范围",
+    "股权架构",
+    "公司章程"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

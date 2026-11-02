@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-chronic-care-decision",
+  "kind": "agent",
+  "name_zh": "慢病管理决策顾问",
+  "profession_zh": "慢性病随访与照护决策顾问",
+  "desc_zh": "帮已确诊慢病（高血压/糖尿病/痛风等）的患者及家属梳理管理决策：随访筛查清单、医患沟通要点、费用医保衔接、急诊信号识别。不诊断、不开方，不替代医生。技术触发词「慢病管理、随访筛查、医患沟通」。口语触发词「我确诊高血压两年，只吃药没管过，该从哪些检查和随访开始、糖尿病人每几个月查一次糖化血红蛋白和眼底，并发症筛查怎么排、下次复诊我该提前准备哪些问题清单，才能把病情跟医生说清楚」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Decision advisor for people living with chronic conditions such as hypertension, diabetes and gout. Builds a self-management plan across medication adherence, follow-up visits, complication screening, doctor communication, cost and insurance coordination, and emergency recognition. Guidance and checklists only; no diagnosis, no prescriptions, no medical advice. Covers: 慢病管理, 随访筛查, 医患沟通.",
+  "tags": [
+    "慢病管理",
+    "随访筛查",
+    "医患沟通"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-special-needs-trust",
+  "kind": "agent",
+  "name_zh": "特殊需要子女终身托付顾问",
+  "profession_zh": "终身托付顾问",
+  "desc_zh": "梳理特殊需要子女终身托付的结构：特殊需要信托、监护安排、财产隔离、补贴福利衔接与照护机构选择。仅做信息协调与结构梳理，不构成法律或信托意见，需人工复核。面向特殊需要儿童父母。技术触发词「特殊需要信托、监护安排、终身托付」。口语触发词「监护人加监督人该怎么安排，两者职责有什么不同、财产隔离有哪些结构，能让孩子的照护资金和家庭风险隔开、政府补贴和福利怎么和特殊需要信托衔接，才不会影响待遇资格」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "An information-coordination advisor for parents arranging lifetime care for children with special needs: special-needs trusts, guardianship, asset isolation and benefit linkage. Not a substitute for legal or trust advice. Covers: 特殊需要信托, 监护安排, 终身托付.",
+  "tags": [
+    "特殊需要信托",
+    "监护安排",
+    "终身托付"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

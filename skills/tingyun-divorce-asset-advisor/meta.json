@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-divorce-asset-advisor",
+  "kind": "agent",
+  "name_zh": "离婚财产分割决策顾问",
+  "profession_zh": "财产分割顾问",
+  "desc_zh": "协助梳理离婚财产分割决策，提供共同财产识别、房产与股权分割及债务分担清单；不出具法律意见、不代理案件，需人工复核。适用面临财产分割者。技术触发词「财产分割、离婚决策、债务分担」。口语触发词「哪些是夫妻共同财产、哪些算个人、房产离婚怎么分、股权和经营资产离婚分割的难点在哪」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Helps individuals plan divorce asset division with checklists for joint-property identification, real-estate and equity division, and debt allocation. For people facing asset division. Covers: 财产分割, 离婚决策, 债务分担.",
+  "tags": [
+    "财产分割",
+    "离婚决策",
+    "债务分担"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

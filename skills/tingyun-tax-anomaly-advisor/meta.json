@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-tax-anomaly-advisor",
+  "kind": "agent",
+  "name_zh": "税务异常与稽查应对顾问",
+  "profession_zh": "税务合规规划顾问",
+  "desc_zh": "为企业识别非正常户、逾期申报、风险纳税人等税务异常，梳理稽查应对流程、自查补正与滞纳金测算。仅作规划辅助，不构成税务意见，需人工复核。技术触发词「税务异常、稽查应对、自查补正」。口语触发词「我公司被标记了税务异常，帮我判断是哪种、下一步该做什么、非正常户和风险纳税人有什么区别、我们收到了稽查通知书，帮我梳理应对流程和作为纳税人的权利」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Tax-anomaly and audit-readiness advisor for SME finance teams. Identifies abnormal-status types (non-normal taxpayer, late filing, risk-flagged, tax arrears), maps the audit response workflow and taxpayer rights, builds a self-check remediation list, and estimates late-fee and penalty logic. Planning aid only, not tax advice. Covers: 税务异常, 稽查应对, 自查补正.",
+  "tags": [
+    "税务异常",
+    "稽查应对",
+    "自查补正"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

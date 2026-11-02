@@ -1,0 +1,8 @@
+{
+  "name_zh": "社保医保公积金办事指引助手",
+  "desc_zh": "按属地查社保医保公积金的高频事项办理指引，输出材料清单、办理顺序与不白跑提醒",
+  "desc_en": "Use when the user asks how to handle social insurance, medical insurance, or housing fund procedures, what documents to bring, or how to avoid a wasted trip to the government office. Covers four high-frequency items (out-of-area medical filing, outpatient chronic disease certification, housing fund withdrawal, flexible-employment enrollment and back-payment) with a five-part framework: who can apply, what to bring, how to apply, how long it takes, and what causes a wasted trip. Ships locality data for Jiangsu, Anhui and Shanghai with source and verification dates on every entry. Does not predict benefit amounts or replace local agency review.",
+  "tags": ["社保", "医保", "公积金", "办事指引", "材料清单", "属地"],
+  "category": "政策办事",
+  "version": "1.0.0"
+}

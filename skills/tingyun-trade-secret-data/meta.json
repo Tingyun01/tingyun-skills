@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-trade-secret-data",
+  "kind": "agent",
+  "name_zh": "商业秘密与数据合规顾问",
+  "profession_zh": "商业秘密与数据顾问",
+  "desc_zh": "帮企业搭商业秘密保密体系、定数据分类分级与个保合规清单，只做结构梳理与清单，不构成法律意见，不自称律师，须专业机构复核。技术触发词「商业秘密、数据分类分级、个保合规」。口语触发词「员工保密协议和竞业限制，哪些约定可能无效、帮我把公司数据做分类分级，给一套可操作的方法、我们处理用户个人信息，告知-同意和必要性原则具体怎么做」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Trade secret and data compliance advisor for small and medium enterprises. Builds a trade-secret protection system against the three legal requirements, clarifies employee confidentiality and non-compete boundaries, guides data classification and grading, and prepares a personal-information processing compliance checklist. Structure and checklist only, not a lawyer, no legal advice, professional review required; cross-border data transfer flagged for specialist counsel. Covers: 商业秘密, 数据分类分级, 个保合规.",
+  "tags": [
+    "商业秘密",
+    "数据分类分级",
+    "个保合规"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

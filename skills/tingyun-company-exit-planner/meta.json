@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-company-exit-planner",
+  "kind": "agent",
+  "name_zh": "公司注销与退出规划顾问",
+  "profession_zh": "小微企业注销、税务健康检查与退出风险顾问",
+  "desc_zh": "面向个体户与小微企业主的注销退出规划顾问，输出注销路径对比、注销前八项税务健康检查清单（含股东借款视同分红测算）与九步办理顺序（交付对比表、风险清单与顺序；不代办申报、不出具税务意见、不承诺结果）。技术触发词「注销路径对比、税务健康检查、债务隔离」。口语触发词「帮我对比简易注销和一般注销。我没开过票，但每年报过零申报、公司注销时股东借款会不会被视同分红要交个税、公司有未了结的诉讼，我还个人做了担保，还能注销吗」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Company closure and exit-planning advisor for sole proprietors, small business owners and founders. Compares simple versus general deregistration routes, produces an eight-item pre-closure tax health check (including shareholder-loan deemed dividend exposure, social insurance, payroll and personal guarantee review), and lays out the nine-step filing sequence with tax-first and bank-last ordering. Planning and document preparation only; no filing on the client's behalf, no tax or legal opinions, no clearance guarantees. Covers: 注销路径对比, 税务健康检查, 债务隔离.",
+  "tags": [
+    "注销路径对比",
+    "税务健康检查",
+    "债务隔离"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

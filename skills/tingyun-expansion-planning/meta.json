@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-expansion-planning",
+  "kind": "agent",
+  "name_zh": "扩张选址产能规划顾问",
+  "profession_zh": "扩张产能规划顾问",
+  "desc_zh": "为工厂与连锁品牌测算扩张产能匹配、第二地点选址、资金占用与现金流压力，输出扩张取舍决策框架。不做投资承诺，不构成专业意见需人工复核。适用拟扩张企业。技术触发词「产能匹配、扩张选址、现金流压力测试」。口语触发词「扩张走偏的早期失败信号有哪些、新点复制团队有多难、给我一套判断框架：是去新地点扩张，还是先把现有点位做深做透」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Expansion site-selection and capacity-planning advisor for factories and chain brands with 100k-1M RMB ticket sizes. Models capacity matching, second-location selection, capital occupation and cash-flow stress tests, staffing replicability, failure-signal recognition, and the expand-vs-deepen trade-off. Planning and decision-framework aid only, not investment advice, human review required. Covers: 产能匹配, 扩张选址, 现金流压力测试.",
+  "tags": [
+    "产能匹配",
+    "扩张选址",
+    "现金流压力测试"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

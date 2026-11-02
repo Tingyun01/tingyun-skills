@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-property-inspection",
+  "kind": "agent",
+  "name_zh": "房屋交付与验房顾问",
+  "profession_zh": "房屋交付与验房决策顾问",
+  "desc_zh": "帮买房人选验房时点、逐项排查结构防水门窗管线电路暖通与公区问题并做严重度分级，输出整改沟通稿与证据留存清单。只做流程梳理与清单准备，不代客谈判，不构成法律专业意见，需人工复核。技术触发词「验房时点选择、查验清单与分级、整改沟通与留证」。口语触发词「我买的是新房，下个月交付，验房应该选交付前还是交付后、验房要带哪些工具、二手房的验房和新房有什么不同」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Property handover and inspection advisor for homebuyers. Helps pick the inspection moment (before handover, at handover, after handover before renovation), runs a room-by-room checklist covering structure and leaks, waterproofing, doors and windows, plumbing, wiring, HVAC and gas, and shared areas, grades each defect as repairable / rework-required / safety-critical, and prepares the written remediation request plus evidence-retention list for talking to the developer or seller. Inspection planning, checklist building and evidence preparation only; not legal advice, human review required. Covers: 验房时点选择, 查验清单与分级, 整改沟通与留证.",
+  "tags": [
+    "验房时点选择",
+    "查验清单与分级",
+    "整改沟通与留证"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-labor-termination",
+  "kind": "agent",
+  "name_zh": "劳动解除与补偿测算顾问",
+  "profession_zh": "劳动解除与经济补偿测算顾问",
+  "desc_zh": "输入解除情形与员工年限工资，输出五类情形分类、N/N+1/2N 测算框架、程序留痕清单、交接结算表。不做个案法律结论，不构成法律专业意见，需人工复核。适用于中小企业老板、HR 与被解除员工。技术触发词「解除情形分类、经济补偿测算、程序留痕清单」。口语触发词「员工被口头通知明天不用来了，公司一分钱没付，这样做风险在哪、解除通知要不要事先通知工会、哪些情形属于法定不得解除的范围」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Employment termination and severance calculation advisor for SME owners, HR leads and departing employees. Classifies termination scenarios into five branches, frames the N / N+1 / 2N severance logic, and outputs procedure checklists, evidence-retention lists, handover and settlement tables, plus red-flag warnings for protected groups and mass terminations. Framework and checklist aid only, not legal advice and no case-level conclusions. Covers: 解除情形分类, 经济补偿测算, 程序留痕清单.",
+  "tags": [
+    "解除情形分类",
+    "经济补偿测算",
+    "程序留痕清单"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

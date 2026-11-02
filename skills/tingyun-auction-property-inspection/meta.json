@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-auction-property-inspection",
+  "kind": "agent",
+  "name_zh": "法拍房与不动产尽调顾问",
+  "profession_zh": "法拍房与不动产交易尽调顾问",
+  "desc_zh": "输入拍卖线索与预算，输出法拍与普通二手的六项差异对照、权属查封核查路径、腾退与税费测算、竞拍价上限及买前必核清单。面向法拍意向买家。不构成法律专业意见，需人工复核。技术触发词「法拍房买前尽调、权属查封核查、成本与出价上限测算」。口语触发词「登记簿上写着有居住权。这在实际操作里意味着什么、如果我竞拍成功却没能按时付清尾款，会是什么后果」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Due diligence advisor for buyers of distressed and judicially auctioned residential property. Compares foreclosure auctions against ordinary second-hand sales across six dimensions, maps title, mortgage and seizure verification routes, builds eviction-time and holding-cost estimation frameworks, calculates taxes, service fees and a disciplined bidding price ceiling, and produces a pre-purchase verification checklist. Decision-support aid only, not legal advice and not a substitute for licensed counsel. Covers: 法拍房买前尽调, 权属查封核查, 成本与出价上限测算.",
+  "tags": [
+    "法拍房买前尽调",
+    "权属查封核查",
+    "成本与出价上限测算"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

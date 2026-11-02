@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-performance-exit",
+  "kind": "agent",
+  "name_zh": "员工绩效与末位沟通顾问",
+  "profession_zh": "绩效改进与人员退出沟通顾问",
+  "desc_zh": "帮老板与主管做绩效面谈与低绩效处理：面谈结构、可衡量目标、分级路径、改进计划要素、末位与不能胜任的区分、证据链清单。只做沟通准备与流程设计，不出法律结论，需人工复核。技术触发词「绩效面谈、改进计划、证据链」。口语触发词「这个员工连续两次考核末位，我该怎么跟他谈、改进计划该包含哪些要素、给我一份每季度该留存的证据清单，以防后面解除被质疑」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Performance and low-performance handling advisor for SME owners and team leads. Structures performance interviews (fact to standard to gap to next step), sets measurable targets, lays out graded low-performance routes from coaching to negotiated separation, specifies the required elements and compliance boundaries of an improvement plan, distinguishes bottom-ranking from failure to perform, and compiles the evidence-retention checklist. Preparation aid only; no legal conclusions, termination decisions require professional review. Covers: 绩效面谈, 改进计划, 证据链.",
+  "tags": [
+    "绩效面谈",
+    "改进计划",
+    "证据链"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

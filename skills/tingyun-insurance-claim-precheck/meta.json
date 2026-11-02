@@ -1,0 +1,8 @@
+{
+  "name_zh": "保险理赔材料预检助手",
+  "desc_zh": "按险种与出险场景核对理赔材料齐备性，输出缺件清单、被退回原因与补齐路径",
+  "desc_en": "Use when the user asks about insurance claim materials, rejected claims, or what documents are needed before filing a claim. Breaks requirements down by claim scenario (auto accident, medical inpatient/outpatient, critical illness, death, disability, employer liability), lists required documents with specifications, explains why claims get rejected, and gives a filing checklist. Does not decide whether a claim will be paid.",
+  "tags": ["保险", "理赔", "材料清单", "车险", "医疗险", "重疾险"],
+  "category": "保险服务",
+  "version": "1.0.0"
+}

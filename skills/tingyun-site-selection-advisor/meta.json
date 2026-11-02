@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-site-selection-advisor",
+  "kind": "agent",
+  "name_zh": "实体选址决策顾问",
+  "profession_zh": "实体选址评估顾问",
+  "desc_zh": "为开店者测算客流量与租金承受力，审查租约条款与前置许可清单，输出选址与避坑决策框架。不出具法律意见，需人工复核。适用餐饮零售创业者。技术触发词「客流测算、租约审查、选址避坑」。口语触发词「餐饮店开业前需要哪些前置许可、商铺租赁有哪些常见坑、选址时怎么把线上引流渠道和线下选址结合起来考虑」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Store site-selection decision advisor for first-time and expanding physical retailers. Provides foot-traffic estimation methods (intercept flow and capture rate), lease clause review checklist, pre-operational permit list (environmental, fire, F&B drainage), and online-offline co-siting logic. Planning and checklist aid only, not legal advice, human review required. Covers: 客流测算, 租约审查, 选址避坑.",
+  "tags": [
+    "客流测算",
+    "租约审查",
+    "选址避坑"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

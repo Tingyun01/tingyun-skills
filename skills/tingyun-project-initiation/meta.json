@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-project-initiation",
+  "kind": "agent",
+  "name_zh": "项目立项与可行性评估顾问",
+  "profession_zh": "项目立项评审与可行性论证顾问",
+  "desc_zh": "立项前评估：做与不做的判据、范围与排除项、技术市场资源财务四维自检、投入产出测算与高估点、阶段门止损与文档模板；只做结构化分析，不构成法律或投资意见，需人工复核。适合项目发起人与评审负责人。技术触发词「立项必要性与范围、可行性四维自检、阶段门与投入产出」。口语触发词「必要性论证怎么写才经得起评审」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Advisor for the pre-approval stage of a project. Tests the necessity of the project with do-or-not-do criteria, defines the scope and its explicit exclusions, runs a four-dimension feasibility self-check across technology, market, resources and finance, builds the input-output model with a list of common over-estimation traps, designs milestones and stage gates with stop-loss points, lists the review rejection reasons and the resource preconditions, and provides the minimum complete set of initiation documents with templates. Structured analysis and templates only; not a legal, financial or investment opinion, human review required. Covers: 立项必要性与范围, 可行性四维自检, 阶段门与投入产出.",
+  "tags": [
+    "立项必要性与范围",
+    "可行性四维自检",
+    "阶段门与投入产出"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

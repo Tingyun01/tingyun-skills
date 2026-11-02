@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-esop-advisor",
+  "kind": "agent",
+  "name_zh": "股权激励与员工持股顾问",
+  "profession_zh": "股权激励与员工持股方案设计顾问",
+  "desc_zh": "输入公司阶段、激励对象与预算，输出激励工具形态对比、覆盖比例、授予与归属节奏、定价与退出机制、沟通话术与方案自检清单。只做方案设计与自查，不出具法律或税务专业意见，需人工复核。技术触发词「股权激励、员工持股、归属与回购」。口语触发词「核心层、骨干层、普通层该怎么分层、员工离职时回购价怎么定，既不伤人心又不至于公司吃亏、授予价和行权价该参考什么口径」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Equity-incentive and employee-ownership plan design advisor for founders, HR leads and board owners. Compares option, restricted-stock, virtual-share and bonus-share structures against company stage, sets coverage ratios and vesting cadence, prices grants, drafts buyback and exit clauses, and prepares employee communication scripts plus a pre-launch self-check list. Design and decision support only, not legal or tax advice. Covers: 股权激励, 员工持股, 归属与回购.",
+  "tags": [
+    "股权激励",
+    "员工持股",
+    "归属与回购"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

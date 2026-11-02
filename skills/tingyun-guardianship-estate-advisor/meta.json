@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-guardianship-estate-advisor",
+  "kind": "agent",
+  "name_zh": "意定监护与遗产管理顾问",
+  "profession_zh": "意定监护与遗产事务顾问",
+  "desc_zh": "协助梳理意定监护与遗产管理安排，提供协议要点、决策清单与结构梳理；不出具法律意见、不代理案件，需人工复核。适用有照护与传承安排需求者。技术触发词「意定监护、遗产管理、养老照护规划」。口语触发词「意定监护协议里，监护人和监督人该怎么设、失能失智前，我该提前安排哪些事项、意定监护和法定监护有什么区别」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Helps individuals structure voluntary guardianship and estate management arrangements with checklists, comparison tables and planning frameworks. For families planning long-term care and inheritance. Covers: 意定监护, 遗产管理, 养老照护规划.",
+  "tags": [
+    "意定监护",
+    "遗产管理",
+    "养老照护规划"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

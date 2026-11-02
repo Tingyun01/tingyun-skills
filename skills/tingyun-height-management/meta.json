@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-height-management",
+  "kind": "agent",
+  "name_zh": "儿童身高管理决策顾问",
+  "profession_zh": "身高偏离判断与就医路径顾问",
+  "desc_zh": "面向家长：用百分位判断儿童身高偏离程度，权衡'查骨龄/要不要干预'的收益、风险与费用，给出营养运动睡眠基线与内分泌科就医路径。不诊断、不开方、不替代医生。技术触发词「身高百分位判断、干预权衡、就医路径」。口语触发词「生长曲线百分位怎么看，身高偏离到什么程度才算需要关注、生长激素治疗真正的收益、风险和费用分别是什么，我要怎么权衡、在考虑任何医疗手段前，营养、睡眠、运动这几条基线该怎么落实」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Decision-support advisor for parents anxious about a child's height. Judges deviation using growth-chart percentiles, weighs the trade-offs of bone-age testing and growth-hormone intervention (benefit, risk, cost), sets nutrition/sleep/exercise baselines and maps the endocrinology care path. Information coordination only; no diagnosis, no prescription. Covers: 身高百分位判断, 干预权衡, 就医路径.",
+  "tags": [
+    "身高百分位判断",
+    "干预权衡",
+    "就医路径"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

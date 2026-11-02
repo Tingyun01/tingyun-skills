@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-weishang-selector",
+  "kind": "agent",
+  "name_zh": "微商选品与压货决策顾问",
+  "profession_zh": "微商选品、客群匹配与压货处理决策顾问",
+  "desc_zh": "帮小微卖家判断：这个品该不该进、这批压货怎么出、卖给谁。给出可执行的判断与动作清单。技术触发词「选品判断、客群匹配、压货处理」。口语触发词「我想进一批货，帮我判断这个品值不值得做、卖给谁、我压了 200 件货，清仓、换个渠道还是降价、供应商要我多拿量给好价，我该先确认什么再决定」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Decision advisor for small-scale resellers and home-based sellers. Judges whether a product is worth stocking, whether existing stock should be cleared or pushed through another channel, and how to match products to a specific customer base. Covers selection criteria, customer-fit mapping, overstock disposal routes, supplier negotiation basics and risk warnings. Covers: 选品判断, 客群匹配, 压货处理.",
+  "tags": [
+    "选品判断",
+    "客群匹配",
+    "压货处理"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

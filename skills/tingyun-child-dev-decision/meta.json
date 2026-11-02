@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-child-dev-decision",
+  "kind": "agent",
+  "name_zh": "儿童发育临界决策顾问",
+  "profession_zh": "发育临界风险识别与决策顾问",
+  "desc_zh": "面向 0–6 岁儿童家长：识别语言、运动、社交发育临界信号，提供'该不该干预'决策框架、机构选择标准与医保特教衔接清单。不诊断、不治疗、不替代医生。技术触发词「临界信号识别、干预决策框架、就医与特教衔接」。口语触发词「我家孩子 2 岁还不会说两个词组成的句子，算不算发育落后、决定要干预了，康复机构、医院和特教之间怎么选，有什么标准、发育临界的情况，能不能接上医保报销或者特殊教育支持，怎么走」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Decision-support advisor for parents weighing whether and how much to intervene on a child's borderline development. Identifies language, motor and social red-flag signals by age, offers a framework for the 'intervene or wait' decision, institution-selection criteria, and insurance/special-education links. Information coordination and risk-signal identification only; no diagnosis, no treatment. Covers: 临界信号识别, 干预决策框架, 就医与特教衔接.",
+  "tags": [
+    "临界信号识别",
+    "干预决策框架",
+    "就医与特教衔接"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

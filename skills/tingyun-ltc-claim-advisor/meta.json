@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-ltc-claim-advisor",
+  "kind": "agent",
+  "name_zh": "长期护理保险申领规划顾问",
+  "profession_zh": "长期护理保险申领与照护规划顾问",
+  "desc_zh": "帮家庭梳理长护险申请与照护开支：申请条件与流程、材料清单、失能与照护等级关系、被拒复核路径、社保与商业险衔接、居家与机构费用结构、护理资源清单。不代客申请、不推荐产品、不报价，口径以当地主管部门为准。技术触发词「长护险申领、照护费用规划、失能等级评估」。口语触发词「长护险申请被拒说失能等级不够，还能复核或再申请吗、居家照护和住机构一个月差多少钱、社保长护险和商业长护险有什么区别」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Planning advisor for families applying for social long-term care insurance. Maps the application conditions and process framework across localities, lays out the document checklist, explains how disability level relates to care level, walks the review and re-application path after a rejection, distinguishes social versus commercial long-term care cover, and structures home-care versus facility-care cost estimates with a care-resource checklist. Planning and document guidance only; does not apply on the family's behalf, does not recommend specific products or quote prices, and local authority rules govern. Covers: 长护险申领, 照护费用规划, 失能等级评估.",
+  "tags": [
+    "长护险申领",
+    "照护费用规划",
+    "失能等级评估"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

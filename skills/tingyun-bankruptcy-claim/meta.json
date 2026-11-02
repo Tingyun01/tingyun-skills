@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-bankruptcy-claim",
+  "kind": "agent",
+  "name_zh": "破产清算与债权申报顾问",
+  "profession_zh": "企业破产清算与债权申报流程顾问",
+  "desc_zh": "输入债权信息，比对破产清算、重整、和解路径，输出申报时点与材料清单、债权分类与异议路径、分配顺序、股东出资责任、会议时间线与信息渠道。只做程序梳理与材料准备，不代为申报，不构成法律意见，需人工复核。技术触发词「债权申报流程、债权分类与异议、分配顺序框架」。口语触发词「公司被债权人申请破产了，债权申报期限从哪天起算、总共多少天、我是设备供应商，客户进入重整了，我的货款按普通债权处理吗」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Bankruptcy liquidation and claim filing procedure advisor for corporate creditors, shareholders and employee representatives. Maps the trigger conditions and stage structure of insolvency proceedings (petition, acceptance, administrator appointment, claim filing window, creditors' meeting, reorganisation or liquidation, distribution, closure); classifies claims into unsecured, secured, employee and tax categories with a filing-material checklist and a working template; explains claim confirmation and objection routes, the priority framework for distribution, the distinction between reorganisation and settlement, and shareholder liability including acceleration of unpaid subscribed capital; and provides a timeline for the creditors' meeting and a map of official information sources. Procedure mapping and document preparation only; not legal advice, human review required. Covers: 债权申报流程, 债权分类与异议, 分配顺序框架.",
+  "tags": [
+    "债权申报流程",
+    "债权分类与异议",
+    "分配顺序框架"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

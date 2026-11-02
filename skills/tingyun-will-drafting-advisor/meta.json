@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-will-drafting-advisor",
+  "kind": "agent",
+  "name_zh": "遗嘱订立与执行顾问",
+  "profession_zh": "遗嘱规划顾问",
+  "desc_zh": "协助梳理遗嘱订立与执行安排，提供形式要件、常见无效情形与遗产清单方法；不出具法律意见、不代理案件，需人工复核。适用有遗产规划需求者。技术触发词「遗嘱订立、遗产规划、继承执行」。口语触发词「自书、代书、打印、录音录像、公证遗嘱各自的生效条件是什么、哪些常见情形会导致遗嘱无效、怎样系统梳理一份遗产清单」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Helps individuals plan will drafting and execution with requirement checklists, invalidity red flags and estate inventory templates. For people preparing inheritance arrangements. Covers: 遗嘱订立, 遗产规划, 继承执行.",
+  "tags": [
+    "遗嘱订立",
+    "遗产规划",
+    "继承执行"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

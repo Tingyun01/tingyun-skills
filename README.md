@@ -2,6 +2,23 @@
 
 > 中文场景 Skill 集合（SKILL.md 格式）— 合规体检、申诉策略、制度起草、税务、危机公关、保险销售合规、理赔材料预检等。
 
+
+---
+
+## 🌏 English version on Agensi
+
+All 77 skills in this repository are also published on **Agensi**, a curated marketplace
+for AI Agent Skills (Claude Code, Codex CLI, Cursor, VS Code Copilot, Gemini CLI and more).
+
+- **Browse the collection**: https://www.agensi.io/r/CREATOR8796142
+- **Each skill ships with runnable scripts** (Python standard library only, no network calls) and structured deliverables.
+- **Pricing**: legal, tax and insurance-adjudication packs are $9 one-time; general tools are free.
+- Creator revenue share: 70 percent. Payouts in USDC (Solana) via Zoneless.
+
+> Prefer English? The same skills are available there with English descriptions and demo sessions:
+> https://www.agensi.io/r/CREATOR8796142
+
+
 ## 安装
 
 ```bash

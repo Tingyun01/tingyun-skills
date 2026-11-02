@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-product-lifecycle",
+  "kind": "agent",
+  "name_zh": "制造业产品立项与退市顾问",
+  "profession_zh": "制造业产品立项评审与退市顾问",
+  "desc_zh": "帮工厂老板做立项三问、测款验证、成本毛利与盈亏测算、退市阈值、库存老化分级、生命周期切换识别、渠道品类取舍、停产备件安排，输出评审表，只做评审与测算，不代拍板，不构成法律/税务专业意见，需人工复核。技术触发词「立项评审与测款、成本毛利测算、退市阈值与库存老化」。口语触发词「一个老款做到什么程度就该停产、我手上有六款不同库龄的滞销库存，怎么分级、一个款决定停产之后，备件、已接订单和售后服务各自要怎么处理」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Manufacturing product launch and phase-out advisor for factory owners and small manufacturers. Applies a three-question gate before money is committed (who buys it, why us, what we will not do), designs small-batch validation tests with pass/fail thresholds, builds a cost-and-margin model with break-even volumes, sets quantified phase-out triggers, grades aging inventory by age band with disposal paths, spots the signals of lifecycle stage shifts, weighs channel versus category trade-offs, and plans discontinuation with spare-parts obligations. Planning and structuring only; not legal, tax or investment advice, human review required. Covers: 立项评审与测款, 成本毛利测算, 退市阈值与库存老化.",
+  "tags": [
+    "立项评审与测款",
+    "成本毛利测算",
+    "退市阈值与库存老化"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-org-structure",
+  "kind": "agent",
+  "name_zh": "组织架构与岗位职责顾问",
+  "profession_zh": "组织架构梳理与岗位职责设计顾问",
+  "desc_zh": "梳理汇报关系、决策权与结果归属，按职能/产品/区域/客户选择部门划分逻辑，输出岗位职责书，用简化责任矩阵排查职责重叠与空白，给出岗位调整沟通顺序与空转岗位识别口径。技术触发词「汇报关系、岗位职责书、责任矩阵」。口语触发词「按职能、按产品、按区域还是按客户划分部门、帮我写一份采购主管的岗位职责书，要让新入职的人看得懂能照做、销售和交付互相甩锅，用责任矩阵帮我找出职责重叠和没人管的地方」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Organization design and job-description advisor for small and mid-sized companies. Clarifies reporting lines, decision rights and result ownership, selects among functional / product / regional / customer-based structures, writes job descriptions, spots responsibility overlap and gaps with a simplified responsibility matrix, sequences organization-change communication, and flags idle roles. Structure design only; no labor-law or compensation opinions. Covers: 汇报关系, 岗位职责书, 责任矩阵.",
+  "tags": [
+    "汇报关系",
+    "岗位职责书",
+    "责任矩阵"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

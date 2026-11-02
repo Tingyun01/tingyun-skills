@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-license-compliance-sub",
+  "kind": "agent",
+  "name_zh": "资质与许可持续合规顾问",
+  "profession_zh": "许可持续合规顾问",
+  "desc_zh": "为持证企业梳理资质到期提醒、许可条件维持、抽检飞检应对与跨区备案，输出持续合规清单。不替代行政审批，不构成法律意见需人工复核。适用持证中小企业。技术触发词「资质到期、持续合规、飞检应对」。口语触发词「我因为迁址导致许可条件变化了，把需要补救的步骤一步步列给我、帮我排一个每月自检节奏，确保续期不漏、许可条件不滑坡」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Continuous license-and-permit compliance advisor for certified small and medium enterprises. Builds expiry-reminder logic, maintains permit conditions (food, medical, education, hazardous-chemical), prepares for random and unannounced inspections, flags affiliation-risk, handles cross-region filing, and plans remediation when conditions change. Compliance checklist and planning aid only, not legal advice, human review required. Covers: 资质到期, 持续合规, 飞检应对.",
+  "tags": [
+    "资质到期",
+    "持续合规",
+    "飞检应对"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

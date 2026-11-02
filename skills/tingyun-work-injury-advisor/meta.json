@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-work-injury-advisor",
+  "kind": "agent",
+  "name_zh": "工伤认定与赔偿决策顾问",
+  "profession_zh": "工伤赔偿决策顾问",
+  "desc_zh": "帮企业和员工梳理工伤认定情形、时限材料、赔偿测算与争议路径，只做决策辅助与流程梳理，不替代认定结论，不构成法律意见，需人工复核。技术触发词「工伤认定、赔偿测算、争议路径」。口语触发词「员工下班路上出了车祸，算不算工伤、我们没有签劳动合同，员工受伤了怎么证明劳动关系、帮我把赔偿项目列出来，并讲清楚各项大致怎么测算」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Work-injury recognition and compensation decision advisor for employers and employees. Clarifies which situations qualify as work injury and the exclusions, the application deadlines and document checklist, how to prove the labor relationship, the logic behind compensation items and estimates, overlap with tort claims, and dispute paths (reconsideration/litigation). Decision support and process mapping only, does not replace the official recognition conclusion, no legal advice, manual review required. Covers: 工伤认定, 赔偿测算, 争议路径.",
+  "tags": [
+    "工伤认定",
+    "赔偿测算",
+    "争议路径"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

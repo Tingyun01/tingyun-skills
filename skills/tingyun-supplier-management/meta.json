@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-supplier-management",
+  "kind": "agent",
+  "name_zh": "供应商选品与履约管理顾问",
+  "profession_zh": "供应商选品评估与履约管理顾问",
+  "desc_zh": "帮中小卖家做供应商分级准入、比价与隐性成本拆解、产能交期核验、样品到大货防差异、来料检验清单、账期与断供应对，输出记分卡与切换流程，只做评估与清单准备，不代谈判，不构成法律/税务专业意见，需人工复核。技术触发词「供应商分级准入、报价拆解与隐性成本、来料检验与切换流程」。口语触发词「有家供应商说月产50万件、15天交货，我怎么判断这是真是假、我想跟供应商把账期从30天谈到60天，这笔账怎么算才划算」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Supplier selection and fulfillment advisor for small sellers, e-commerce teams and small factories. Grades and approves suppliers, compares quotes after breaking out hidden costs (freight, tooling, payment-term carry, after-sales and write-off), verifies real capacity and lead time instead of taking the supplier's word, prevents sample-to-bulk drift, runs incoming inspection (IQC) checklists, designs payment and settlement terms, prepares price talks and cost-reduction paths, and prepares dual-sourcing and supplier-exit plans. Assessment, checklists and planning only; not legal, tax or investment advice, human review required. Covers: 供应商分级准入, 报价拆解与隐性成本, 来料检验与切换流程.",
+  "tags": [
+    "供应商分级准入",
+    "报价拆解与隐性成本",
+    "来料检验与切换流程"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

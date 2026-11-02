@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-ecommerce-launch-team",
+  "kind": "agent",
+  "name_zh": "电商新店开业作战团",
+  "profession_zh": "电商新店开业作战团",
+  "desc_zh": "三人作战团：先排资质与红线风险序，再把选品、合规、素材三路排出先后与验收标准，输出可执行的开店计划。技术触发词「开店作战计划、风险排序、从零到一」。口语触发词「我要开个新店，帮我排出从0到1的作战顺序和风险序、开店前我必须先拿到哪些资质、帮我把这个品的首屏素材和客服高频问答一次做出来」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Three-member expert team for opening a new e-commerce store. A lead commander sequences merchandising, compliance and creative work into one executable launch plan, with a risk order that puts credential and red-line blockers first. No sales promises, no agency service. Covers: 开店作战计划, 风险排序, 从零到一.",
+  "tags": [
+    "开店作战计划",
+    "风险排序",
+    "从零到一"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

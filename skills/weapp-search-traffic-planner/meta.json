@@ -1,0 +1,8 @@
+{
+  "name_zh": "小程序搜一搜流量规划师",
+  "desc_zh": "给微信小程序做搜一搜自然流量规划：起名前的命名合规预检、名称/简介/页面标题的关键词布局表、sitemap 收录与页面路径推送配置清单，输出可直接执行的三段式落地卡",
+  "desc_en": "Use when the user asks why their WeChat mini program cannot be found in WeChat search, why it ranks low, what the mini program name should be, how to lay out keywords across name, summary and page titles, or how to configure sitemap indexing and page path push. Runs a naming compliance pre-check against the platform operating rules (rejects names made only of generic category words, keyword stuffing, advertising superlatives and unauthorized trademarks), builds a keyword-to-page mapping table, and produces a sitemap plus page-path push checklist. Flags the traps: names are globally unique and hard to change, web-view page content is never indexed, and pages whose crawler-visible content differs from what users see are excluded from the index. Output is a three-part action card with each rule cited by its official document path. Planning aid only, not professional legal, tax, or medical advice; human review required.",
+  "tags": ["小程序搜索", "搜一搜", "ASO", "关键词布局", "命名规范", "sitemap", "自然流量", "小程序运营"],
+  "category": "小程序运营与自然流量",
+  "version": "1.0.0"
+}

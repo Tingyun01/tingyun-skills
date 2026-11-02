@@ -1,0 +1,40 @@
+{
+  "pkg": "tingyun-postpartum-support",
+  "kind": "agent",
+  "name_zh": "产后抑郁筛查与干预顾问",
+  "profession_zh": "产后情绪风险识别与支持顾问",
+  "desc_zh": "面向产妇与家人：识别产后情绪风险信号（非诊断），介绍 EPDS 等筛查工具、何时必须就医、家人应对话术与自我照护清单。不诊断、不治疗，紧急情况立即就医，不替代医生诊断。技术触发词「风险信号识别、筛查工具介绍、家人应对支持」。口语触发词「生完宝宝一个多月，我总是想哭、睡不好，这是产后抑郁吗、产后哪些情绪信号说明我必须马上找专业人士求助、EPDS 筛查量表是什么，得分在 10 分上下该怎么理解」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。",
+  "desc_en": "Screening and support advisor for postpartum mood risk. Identifies warning signals (not a diagnosis), introduces screening tools such as EPDS, explains when urgent care is needed, equips family with response scripts and a self-care checklist, and maps the care path. Risk-signal identification and support only; no diagnosis, no treatment. Covers: 风险信号识别, 筛查工具介绍, 家人应对支持.",
+  "tags": [
+    "风险信号识别",
+    "筛查工具介绍",
+    "家人应对支持"
+  ],
+  "price_cny_tiers": [
+    19,
+    39,
+    99
+  ],
+  "suggested_price_cny": 39,
+  "suggested_price_usd": [
+    19,
+    39,
+    99
+  ],
+  "platforms": {
+    "workbuddy": {
+      "published": false,
+      "note": "观察期只能挂 1 个付费资产，发布后不可改付费"
+    },
+    "coze": {
+      "format": "SKILL.md 同源",
+      "note": "扣子编程侧用 SKILL.md；需个人版商户入驻 + 精选案例"
+    },
+    "claude_skills": {
+      "format": "SKILL.md 同源",
+      "note": "Agensi / KissMySkills / Gumroad 均收此格式"
+    }
+  },
+  "copyright": "原创方法论整理，不含受版权保护出版物内容",
+  "license": "单次购买单人授权使用，不可转售再分发"
+}

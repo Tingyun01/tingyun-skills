@@ -1,0 +1,8 @@
+{
+  "name_zh": "家庭保单年度体检助手",
+  "desc_zh": "帮家庭年度盘点全部保单，核对保障缺口、缴费节点、失效风险与白扔的权益，输出待办清单",
+  "desc_en": "Use when the user asks about family insurance policy review, checking what their policies actually cover, renewal dates, or lapsed coverage. Guides the user through collecting all policies into one table, then checks coverage multiples against income and liabilities, payment date conflicts, grace periods, beneficiary designations, and unused benefits. Produces a gap comparison, a timeline of upcoming deadlines, and a to-do list. Does not recommend products or decide whether a claim would be paid.",
+  "tags": ["保险", "家庭保障", "保单体检", "清单", "保单管理"],
+  "category": "保险服务",
+  "version": "1.0.0"
+}

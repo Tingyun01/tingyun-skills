@@ -1,5 +1,6 @@
 ---
 slug: weapp-search-traffic-planner
+name: weapp-search-traffic-planner
 version: 1.0.1
 displayName: "小程序搜一搜流量规划师"
 summary: "给微信小程序做搜一搜自然流量规划：起名前的命名合规预检、名称/简介/页面标题的关键词布局表、sitemap 收录与页面路径推送配置清单，输出可直接执行的三段式落地卡"

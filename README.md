@@ -18,6 +18,28 @@ for AI Agent Skills (Claude Code, Codex CLI, Cursor, VS Code Copilot, Gemini CLI
 > Prefer English? The same skills are available there with English descriptions and demo sessions:
 > https://www.agensi.io/r/CREATOR8796142
 
+### 📦 Bundles — themed packs, one price
+
+Buy a themed group of skills in one go. Each bundle mixes the paid packs with free
+companions, and costs less than buying the paid packs separately.
+
+| Bundle | Name | Price | Size | Covers |
+|---|---|---|---|---|
+| [`tingyun-insurance-compliance-suite`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-insurance-compliance-suite) | Insurance Sales Compliance Suite | $31 | 6 skills | Sales compliance self-check, licence renewal, tender rules, policy drafting |
+| [`tingyun-family-protection-planner`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-family-protection-planner) | Family Protection Planner | $38 | 8 skills | Advance care planning, guardianship, wills, special needs trusts, maternity benefit calculator |
+| [`tingyun-claim-preparation-pack`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-claim-preparation-pack) | Claim Preparation Pack | $23 | 5 skills | Six-scenario document checklist, work injury, long-term care grading |
+| [`tingyun-small-business-tax-compliance-pack`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-small-business-tax-compliance-pack) | Small Business Tax Compliance Pack | $23 | 5 skills | Sole proprietor filing, tax anomaly review, business closure |
+| [`tingyun-employment-hr-toolkit`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-employment-hr-toolkit) | Employment and HR Toolkit | $38 | 9 skills | Labour compliance, severance, agency management, trade secrets, procurement |
+| [`tingyun-aging-care-suite`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-aging-care-suite) | Aging and Care Suite | $23 | 5 skills | Institutional compliance, eldercare agreements, guardian supervision |
+| [`tingyun-commerce-operations-pack`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-commerce-operations-pack) | Commerce Operations Pack | $31 | 8 skills | E-commerce tax, appeal strategy, contract performance, asset disposal |
+| [`tingyun-property-transaction-kit`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-property-transaction-kit) | Property Transaction Kit | $31 | 6 skills | Auction due diligence, handover inspection, renovation contracts |
+| [`tingyun-dispute-resolution-kit`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-dispute-resolution-kit) | Dispute Resolution Kit | $31 | 4 skills | Bankruptcy claims, capital reduction, divorce assets, IP enforcement |
+| [`tingyun-project-capital-advisory-pack`](https://www.agensi.io/r/CREATOR8796142?to=/skills/tingyun-project-capital-advisory-pack) | Project and Capital Advisory Pack | $31 | 7 skills | Project acceptance, term sheets, equity structure, data transfer |
+
+> All bundles are published as drafts until the underlying skills pass the platform's
+> security review. Links above resolve to the bundle pages once they go live.
+
+
 
 ## 安装
 

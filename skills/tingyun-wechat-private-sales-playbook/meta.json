@@ -1,0 +1,45 @@
+{
+ "pkg": "tingyun-wechat-private-sales-playbook",
+ "kind": "agent",
+ "name_zh": "微信私域资料变现路径顾问",
+ "desc_zh": "为做知识付费与虚拟资料私域的人梳理定价分层、交付方式、复购与转介绍设计，输出可落地的变现路径表。",
+ "desc_en": "Lays out price tiers, delivery mechanics, repeat-purchase and referral design for private-domain knowledge products.",
+ "tags": [
+  "私域变现",
+  "定价策略",
+  "知识付费"
+ ],
+ "keywords": [
+  "private domain",
+  "pricing tiers",
+  "knowledge product",
+  "referral design",
+  "buyer questions"
+ ],
+ "suggested_price_usd": [
+  9
+ ],
+ "price_cny_tiers": [
+  39,
+  79,
+  199
+ ],
+ "suggested_price_cny": 79,
+ "origin": "停云文化 · 原创撰写",
+ "created_at": "2026-11-02",
+ "platforms": {
+  "agensi": {
+   "slug": "tingyun-wechat-private-sales-playbook",
+   "price_usd": 9
+  },
+  "skillhub": {
+   "status": "pending"
+  },
+  "github": {
+   "status": "pending"
+  },
+  "workbuddy": {
+   "status": "pending"
+  }
+ }
+}

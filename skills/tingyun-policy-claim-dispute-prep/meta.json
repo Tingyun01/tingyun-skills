@@ -1,0 +1,45 @@
+{
+ "pkg": "tingyun-policy-claim-dispute-prep",
+ "kind": "agent",
+ "name_zh": "理赔争议材料准备与申诉要点顾问",
+ "desc_zh": "为理赔被拒或部分赔付的客户梳理争议点、补充材料清单与申诉陈述结构，输出可直接使用的材料包。",
+ "desc_en": "Turns a denied or partial claim into an organised dispute: identifies the contestable points, lists the supplementary evidence, and structures the written submission.",
+ "tags": [
+  "理赔争议",
+  "保险申诉",
+  "证据材料"
+ ],
+ "keywords": [
+  "claim dispute",
+  "evidence list",
+  "denied claim",
+  "partial payout",
+  "appeal"
+ ],
+ "suggested_price_usd": [
+  9
+ ],
+ "price_cny_tiers": [
+  39,
+  79,
+  199
+ ],
+ "suggested_price_cny": 79,
+ "origin": "停云文化 · 原创撰写",
+ "created_at": "2026-11-02",
+ "platforms": {
+  "agensi": {
+   "slug": "tingyun-policy-claim-dispute-prep",
+   "price_usd": 9
+  },
+  "skillhub": {
+   "status": "pending"
+  },
+  "github": {
+   "status": "pending"
+  },
+  "workbuddy": {
+   "status": "pending"
+  }
+ }
+}

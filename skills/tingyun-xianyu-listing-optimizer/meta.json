@@ -1,0 +1,45 @@
+{
+ "pkg": "tingyun-xianyu-listing-optimizer",
+ "kind": "agent",
+ "name_zh": "闲鱼虚拟资料商品优化顾问",
+ "desc_zh": "为闲鱼与小红书虚拟资料卖家梳理标题公式、描述结构、关键词布局与合规红线，输出可直接上架的商品页。",
+ "desc_en": "Structures titles, descriptions, keyword placement and compliance guardrails for virtual-goods sellers on Xianyu and Xiaohongshu.",
+ "tags": [
+  "闲鱼运营",
+  "商品标题",
+  "虚拟资料"
+ ],
+ "keywords": [
+  "xianyu listing",
+  "product title",
+  "virtual goods",
+  "keyword placement",
+  "listing compliance"
+ ],
+ "suggested_price_usd": [
+  9
+ ],
+ "price_cny_tiers": [
+  39,
+  79,
+  199
+ ],
+ "suggested_price_cny": 79,
+ "origin": "停云文化 · 原创撰写",
+ "created_at": "2026-11-02",
+ "platforms": {
+  "agensi": {
+   "slug": "tingyun-xianyu-listing-optimizer",
+   "price_usd": 9
+  },
+  "skillhub": {
+   "status": "pending"
+  },
+  "github": {
+   "status": "pending"
+  },
+  "workbuddy": {
+   "status": "pending"
+  }
+ }
+}

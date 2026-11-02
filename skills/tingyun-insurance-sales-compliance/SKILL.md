@@ -4,7 +4,7 @@ name: tingyun-insurance-sales-compliance
 version: 1.0.1
 displayName: 保险销售合规自查顾问
 summary: "按监管处罚案例逐条体检保险销售全流程合规状况，输出风险分级与整改台账"
-description: "面向中小保险中介机构、保险专业代理机构与转型独立代理人的销售合规自查顾问。按双录、销售适当性、夸大承诺、返佣费用、保费管理、未如实告知、销售误导、无证展业、自保互保、数据消保十组三十项检查，逐项给出怎么查、常见表现、监管依据与风险等级，配套真实行政处罚案例库与可自查脚本，输出风险分级与整改台账。技术触发词「销售合规自查、双录质检、适当性匹配、处罚案例」。口语触发词「我们支公司双录怎么做才不会被罚、销售适当性要留哪些东西、有哪些保险销售的红线不能碰」。输出可直接使用的清单、对照表与行动项。仅作合规自查与整改辅助，不构成法律意见或监管认定结论，需人工复核。 Insurance sales compliance self-check advisor for small and mid-sized insurance agencies, professional intermediary branches, and independent agents transitioning to solo practice. Breaks the review into ten groups and thirty checks covering double-recording, suitability, misrepresentation, rebates, premium handling, duty of disclosure, marketing conduct, unlicensed selling, self-policing, and data protection, each with the concrete audit procedure, typical red flags, regulatory basis, and risk tier. Bundles a real enforcement case library and a runnable self-check script that outputs risk grading and a remediation tracker. Does not issue legal opinions or regulatory determinations; human review is required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
+description: "面向中小保险中介机构、保险专业代理机构与转型独立代理人的销售合规自查顾问。买下后你会拿到三样可直接用的东西：①36 项自查表，按双录、销售适当性、夸大承诺、返佣费用、保费管理、未如实告知、销售误导、无证展业、自保互保、数据消保十组编排，每项写明怎么查、常见表现、依据条款与风险等级（高 29 · 中 7）；②一个可直接跑的自查脚本，按你的分支机构数、销售渠道数、从业人数算出风险分，输出十组风险分布、Top 10 优先整改项与整改台账 CSV；③一份真实行政处罚案例与依据库，26 例处罚案例含机构名、案号、违规事实、罚款金额、依据条款，另有 22 条现行有效监管依据与三个引用陷阱。技术触发词「销售合规自查、双录质检、适当性匹配、处罚案例」。口语触发词「我们支公司双录怎么做才不会被罚、销售适当性要留哪些东西、有哪些保险销售的红线不能碰」。输出可直接使用的清单、对照表与行动项。仅作合规自查与整改辅助，不构成法律意见或监管认定结论，需人工复核。 Insurance sales compliance self-check advisor for small and mid-sized insurance agencies, professional intermediary branches, and independent agents transitioning to solo practice. Three ready-to-use deliverables come with it: a 36-item self-check table organised into ten groups (double-recording, suitability, misrepresentation, rebates, premium handling, duty of disclosure, marketing conduct, unlicensed selling, self-policing, data protection), each with the audit procedure, the red flags to look for, the governing regulation and a risk tier (29 high, 7 medium); a runnable script that scores your exposure from your branch count, channel mix and headcount, then prints the per-group risk profile, a Top 10 remediation priority order and a remediation ledger as CSV; and a library of 26 documented regulatory penalty cases with institution, case number, violation facts, fine amount and the regulation cited, plus 22 current regulatory instruments and three citation traps to avoid. Does not issue legal opinions or regulatory determinations; human review is required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 license: MIT
 tags: ["保险", "合规", "双录", "适当性", "销售管理", "自查清单"]
 agent_created: true
@@ -22,6 +22,19 @@ agent_created: true
 
 **核心用法**：先跑脚本拿风险分，再对着检查项逐项人工核。
 
+## 一之二、你会拿到什么
+
+买下之后，目录里有三样可以直接用的东西，加一份把它们串起来的执行手册：
+
+| # | 交付物 | 在哪 | 形态 |
+|---|---|---|---|
+| 1 | 36 项自查表（十组，每项含怎么查 / 常见表现 / 依据 / 风险等级） | `references/监管案例与依据库.md` | 表格，36 行 × 6 列 |
+| 2 | 自查脚本 + 整改台账模板 | `scripts/compliance_audit.py`、`scripts/整改台账模板.csv` | Python 标准库脚本，导出 13 列 CSV |
+| 3 | 26 例处罚案例 + 22 条监管依据 + 引用陷阱 | `references/监管案例与依据库.md` | 案例表 + 依据清单 |
+| 4 | 30 分钟上手执行手册 | `references/30分钟上手执行手册.md` | 四步流程、参数怎么填、表格怎么填 |
+
+跑完脚本你会拿到：总分与风险等级、十组暴露度分布、Top 10 优先整改项（每项带「怎么查」和「依据条款」）、以及一份前 8 列已填好、留出结论 / 整改动作 / 责任人 / 完成日期 / 复核人 5 列空白的整改台账 CSV。
+
 ## 二、适用与不适用
 
 **适用**：
@@ -36,7 +49,7 @@ agent_created: true
 - 需要设计产品或核保规则 → 保险公司产品精算与合规部门
 - 争议诉讼代理 → 执业律师
 
-## 三、十组三十项检查
+## 三、十组三十六项检查
 
 完整表格在 `references/监管案例与依据库.md`。此处列结构与风险分布：
 
@@ -53,7 +66,7 @@ agent_created: true
 | I | 自保件与互保件 | 2 | 高 2 |
 | J | 数据与消费者权益保护 | 4 | 高 2 · 中 2 |
 
-> **合计 34 项**（部分组在素材库中按子项拆分计数），其中高风险 29 项。
+> **合计 36 项**，其中高风险 29 项、中风险 7 项。
 
 ### 三个最容易踩、也最贵的雷区
 

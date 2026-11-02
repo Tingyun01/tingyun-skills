@@ -1,9 +1,9 @@
 ---
 slug: tingyun-special-needs-trust
 name: tingyun-special-needs-trust
-version: 1.0.0
+version: 1.0.1
 displayName: 特殊需要子女终身托付顾问
-description: "梳理特殊需要子女终身托付的结构：特殊需要信托、监护安排、财产隔离、补贴福利衔接与照护机构选择。仅做信息协调与结构梳理，不构成法律或信托意见，需人工复核。面向特殊需要儿童父母。技术触发词「特殊需要信托、监护安排、终身托付」。口语触发词「监护人加监督人该怎么安排，两者职责有什么不同、财产隔离有哪些结构，能让孩子的照护资金和家庭风险隔开、政府补贴和福利怎么和特殊需要信托衔接，才不会影响待遇资格」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 An information-coordination advisor for parents arranging lifetime care for children with special needs:\ special-needs trusts, guardianship, asset isolation and benefit linkage. Not a substitute for legal or trust advice. Covers:\ 特殊需要信托, 监护安排, 终身托付. Use when the user asks to an information-coordination advisor for parents arranging. An information-coordination advisor for parents arranging lifetime care for children with special needs: special-needs trusts, guardianship, asset isolation and benefit linkage. Not a substitute for. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "梳理特殊需要子女终身托付的结构：特殊需要信托、监护安排、财产隔离、补贴福利衔接与照护机构选择。仅做信息协调与结构梳理，不构成法律或信托意见，需人工复核。面向特殊需要儿童父母。技术触发词「特殊需要信托、监护安排、终身托付」。口语触发词「监护人加监督人该怎么安排，两者职责有什么不同、财产隔离有哪些结构，能让孩子的照护资金和家庭风险隔开、政府补贴和福利怎么和特殊需要信托衔接，才不会影响待遇资格」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 An information-coordination advisor for parents arranging lifetime care for children with special needs:\ special-needs trusts, guardianship, asset isolation and benefit linkage. Not a substitute for legal or trust advice. Covers:\ 特殊需要信托, 监护安排, 终身托付. Use when the user asks to an information-coordination advisor for parents arranging. An information-coordination advisor for parents arranging lifetime care for children with special needs: special-needs trusts, guardianship, asset isolation and benefit linkage. Not a substitute for. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 梳理特殊需要子女终身托付的结构：特殊需要信托、监护安排、财产隔离、补贴福利衔接与照护机构选择。仅做信息协调与结构梳理，不构成法律或信托意见，需人工复核。面向特殊需要儿童父母。
 tags:
   - 特殊需要信托

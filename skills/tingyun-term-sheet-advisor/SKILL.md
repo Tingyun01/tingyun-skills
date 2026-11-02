@@ -1,9 +1,9 @@
 ---
 slug: tingyun-term-sheet-advisor
 name: tingyun-term-sheet-advisor
-version: 1.0.0
+version: 1.0.1
 displayName: 股权融资条款与TS谈判顾问
-description: "为创始人拆解TS核心条款（估值、优先清算、反稀释、对赌、一票否决等），给谈判优先级与条款对照。仅作决策辅助，不构成法律意见，需人工复核。技术触发词「TS条款、估值与对赌、谈判优先级」。口语触发词「投资人发来一份TS，帮我逐条拆解哪些条款对创始人风险较高、用大白话讲讲优先清算权和反稀释，退出时怎么坑创始人、投资人逼我们签对赌（估值调整），真实风险有哪些」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Term-sheet negotiation advisor for founders. Breaks down core TS clauses (valuation, liquidation preference, anti-dilution, VAM, veto, board seats, drag-along), ranks negotiation priorities, and gives a clause comparison table of what to concede vs hold. Decision-support aid only, not legal advice. Covers:\ TS条款, 估值与对赌, 谈判优先级. Use when the user asks to term-sheet negotiation advisor for founders. Term-sheet negotiation advisor for founders. Breaks down core TS clauses (valuation, liquidation preference, anti-dilution, VAM, veto, board seats, drag-along), ranks negotiation priorities, and. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "为创始人拆解TS核心条款（估值、优先清算、反稀释、对赌、一票否决等），给谈判优先级与条款对照。仅作决策辅助，不构成法律意见，需人工复核。技术触发词「TS条款、估值与对赌、谈判优先级」。口语触发词「投资人发来一份TS，帮我逐条拆解哪些条款对创始人风险较高、用大白话讲讲优先清算权和反稀释，退出时怎么坑创始人、投资人逼我们签对赌（估值调整），真实风险有哪些」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Term-sheet negotiation advisor for founders. Breaks down core TS clauses (valuation, liquidation preference, anti-dilution, VAM, veto, board seats, drag-along), ranks negotiation priorities, and gives a clause comparison table of what to concede vs hold. Decision-support aid only, not legal advice. Covers:\ TS条款, 估值与对赌, 谈判优先级. Use when the user asks to term-sheet negotiation advisor for founders. Term-sheet negotiation advisor for founders. Breaks down core TS clauses (valuation, liquidation preference, anti-dilution, VAM, veto, board seats, drag-along), ranks negotiation priorities, and. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 为创始人拆解TS核心条款（估值、优先清算、反稀释、对赌、一票否决等），给谈判优先级与条款对照。仅作决策辅助，不构成法律意见，需人工复核。
 tags:
   - TS条款

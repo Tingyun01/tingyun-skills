@@ -1,9 +1,9 @@
 ---
 slug: weapp-approval-advisor
 name: weapp-approval-advisor
-version: 1.0.2
+version: 1.0.3
 displayName: 微信小程序过审顾问
-description: "专攻微信小程序过审：类目资质对表、驳回根因诊断、隐私协议对齐、提审自检、备注代写，让卡审小程序过审。技术触发词「小程序过审、合规审核、类目备案」。口语触发词「我的小程序提审被拒了，帮我诊断真实原因并给出逐条修改清单、帮我把功能逐条对到微信服务类目，并告诉我需要什么资质、提审前帮我跑一遍完整自检，看看还有哪些会被驳回」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 WeChat Mini Program review approval advisor that maps service categories, diagnoses rejections, and drafts review notes. Covers:\ 小程序过审, 合规审核, 类目备案. Use when the user asks to wechat mini program review approval advisor. WeChat Mini Program review approval advisor that maps service categories, diagnoses rejections, and drafts review notes. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "专攻微信小程序过审：类目资质对表、驳回根因诊断、隐私协议对齐、提审自检、备注代写，让卡审小程序过审。技术触发词「小程序过审、合规审核、类目备案」。口语触发词「我的小程序提审被拒了，帮我诊断真实原因并给出逐条修改清单、帮我把功能逐条对到微信服务类目，并告诉我需要什么资质、提审前帮我跑一遍完整自检，看看还有哪些会被驳回」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 WeChat Mini Program review approval advisor that maps service categories, diagnoses rejections, and drafts review notes. Covers:\ 小程序过审, 合规审核, 类目备案. Use when the user asks to wechat mini program review approval advisor. WeChat Mini Program review approval advisor that maps service categories, diagnoses rejections, and drafts review notes. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 专攻微信小程序过审：类目资质对表、驳回根因诊断、隐私协议对齐、提审自检、备注代写，让卡审小程序过审
 tags:
   - 小程序过审

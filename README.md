@@ -3,6 +3,15 @@
 > 中文场景 Skill 集合（SKILL.md 格式）— 合规体检、申诉策略、制度起草、税务、危机公关、保险销售合规、理赔材料预检等。
 
 
+
+[![skills.sh](https://skills.sh/b/Tingyun01/tingyun-skills)](https://skills.sh/Tingyun01/tingyun-skills)
+
+Install any skill in one command:
+
+```bash
+npx skills add Tingyun01/tingyun-skills
+```
+
 ---
 
 ## 🌏 English version on Agensi

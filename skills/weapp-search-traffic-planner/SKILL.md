@@ -1,9 +1,9 @@
 ---
 slug: weapp-search-traffic-planner
-version: 1.0.0
+version: 1.0.1
 displayName: "小程序搜一搜流量规划师"
 summary: "给微信小程序做搜一搜自然流量规划：起名前的命名合规预检、名称/简介/页面标题的关键词布局表、sitemap 收录与页面路径推送配置清单，输出可直接执行的三段式落地卡"
-description: "专攻微信小程序搜一搜自然流量：命名合规预检 + 关键词-页面对应表 + sitemap 收录与页面路径推送配置。技术触发词「小程序搜索优化、小程序 ASO、搜一搜排名、关键词布局、sitemap 收录」。口语触发词「我的小程序搜不到、搜出来排在后面、名字被驳回让我改、该起什么名字才能被搜到、页面标题怎么写才有人点」。输出可勾选的三段式落地卡（命名合规表 / 关键词页面对应表 / 收录配置清单）。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 WeChat mini program search traffic planner for the WeChat native search channel. Runs a naming compliance pre-check against the platform operating rules (rejects generic category-only names, keyword stuffing, advertising superlatives, and unauthorized trademarks), builds a keyword-to-page mapping table across name, summary, and per-page titles, and produces a sitemap plus page-path push configuration checklist. Also flags the traps: names that are globally unique and hard to change, web-view pages that are never indexed, and crawler-visible pages that differ from what users see. Output is a three-part action card with per-item rules cited by official document path. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "专攻微信小程序搜一搜自然流量：命名合规预检 + 关键词-页面对应表 + sitemap 收录与页面路径推送配置。技术触发词「小程序搜索优化、小程序 ASO、搜一搜排名、关键词布局、sitemap 收录」。口语触发词「我的小程序搜不到、搜出来排在后面、名字被驳回让我改、该起什么名字才能被搜到、页面标题怎么写才有人点」。输出可勾选的三段式落地卡（命名合规表 / 关键词页面对应表 / 收录配置清单）。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 WeChat mini program search traffic planner for the WeChat native search channel. Runs a naming compliance pre-check against the platform operating rules (rejects generic category-only names, keyword stuffing, advertising superlatives, and unauthorized trademarks), builds a keyword-to-page mapping table across name, summary, and per-page titles, and produces a sitemap plus page-path push configuration checklist. Also flags the traps: names that are globally unique and hard to change, web-view pages that are never indexed, and crawler-visible pages that differ from what users see. Output is a three-part action card with per-item rules cited by official document path. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 tags:
   - 小程序搜索
   - 搜一搜

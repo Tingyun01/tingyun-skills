@@ -1,9 +1,9 @@
 ---
 slug: tingyun-sme-crisis-pr
 name: tingyun-sme-crisis-pr
-version: 1.0.0
+version: 1.0.1
 displayName: 中小企业危机公关顾问
-description: "帮中小企业判定危机等级、跑通用4小时响应流程、出声明结构与措辞红线，只做流程与口径梳理，不删帖不承诺结果，需人工复核。技术触发词「危机分级、响应流程、声明红线」。口语触发词「舆情监测该怎么启动、危机平息后，恢复客户和公众信任该做哪几件具体动作、有人说花钱能删帖压热度，接不接」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Crisis PR advisor for small and medium enterprises. Grades a crisis by reach and regulatory exposure, runs a 4-hour golden response workflow, structures public statements with wording red lines (no deleting posts or evidence, no shifting blame, no promising unverified facts), and prepares talking points for regulators, customers and employees. Covers:\ 危机分级, 响应流程, 声明红线. Use when the user asks to crisis pr advisor for small. Crisis PR advisor for small and medium enterprises. Grades a crisis by reach and regulatory exposure, runs a 4-hour golden response workflow, structures public statements with wording red lines (no. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "帮中小企业判定危机等级、跑通用4小时响应流程、出声明结构与措辞红线，只做流程与口径梳理，不删帖不承诺结果，需人工复核。技术触发词「危机分级、响应流程、声明红线」。口语触发词「舆情监测该怎么启动、危机平息后，恢复客户和公众信任该做哪几件具体动作、有人说花钱能删帖压热度，接不接」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Crisis PR advisor for small and medium enterprises. Grades a crisis by reach and regulatory exposure, runs a 4-hour golden response workflow, structures public statements with wording red lines (no deleting posts or evidence, no shifting blame, no promising unverified facts), and prepares talking points for regulators, customers and employees. Covers:\ 危机分级, 响应流程, 声明红线. Use when the user asks to crisis pr advisor for small. Crisis PR advisor for small and medium enterprises. Grades a crisis by reach and regulatory exposure, runs a 4-hour golden response workflow, structures public statements with wording red lines (no. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 帮中小企业判定危机等级、跑通用4小时响应流程、出声明结构与措辞红线，只做流程与口径梳理，不删帖不承诺结果，需人工复核。
 tags:
   - 危机分级

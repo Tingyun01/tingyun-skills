@@ -1,9 +1,9 @@
 ---
 slug: tingyun-tax-anomaly-advisor
 name: tingyun-tax-anomaly-advisor
-version: 1.0.0
+version: 1.0.1
 displayName: 税务异常与稽查应对顾问
-description: "为企业识别非正常户、逾期申报、风险纳税人等税务异常，梳理稽查应对流程、自查补正与滞纳金测算。仅作规划辅助，不构成税务意见，需人工复核。技术触发词「税务异常、稽查应对、自查补正」。口语触发词「我公司被标记了税务异常，帮我判断是哪种、下一步该做什么、非正常户和风险纳税人有什么区别、我们收到了稽查通知书，帮我梳理应对流程和作为纳税人的权利」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Tax-anomaly and audit-readiness advisor for SME finance teams. Identifies abnormal-status types (non-normal taxpayer, late filing, risk-flagged, tax arrears), maps the audit response workflow and taxpayer rights, builds a self-check remediation list, and estimates late-fee and penalty logic. Planning aid only, not tax advice. Covers:\ 税务异常, 稽查应对, 自查补正. Use when the user asks to tax anomaly. Tax-anomaly and audit-readiness advisor for SME finance teams. Identifies abnormal-status types (non-normal taxpayer, late filing, risk-flagged, tax arrears), maps the audit response workflow and. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "为企业识别非正常户、逾期申报、风险纳税人等税务异常，梳理稽查应对流程、自查补正与滞纳金测算。仅作规划辅助，不构成税务意见，需人工复核。技术触发词「税务异常、稽查应对、自查补正」。口语触发词「我公司被标记了税务异常，帮我判断是哪种、下一步该做什么、非正常户和风险纳税人有什么区别、我们收到了稽查通知书，帮我梳理应对流程和作为纳税人的权利」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Tax-anomaly and audit-readiness advisor for SME finance teams. Identifies abnormal-status types (non-normal taxpayer, late filing, risk-flagged, tax arrears), maps the audit response workflow and taxpayer rights, builds a self-check remediation list, and estimates late-fee and penalty logic. Planning aid only, not tax advice. Covers:\ 税务异常, 稽查应对, 自查补正. Use when the user asks to tax anomaly. Tax-anomaly and audit-readiness advisor for SME finance teams. Identifies abnormal-status types (non-normal taxpayer, late filing, risk-flagged, tax arrears), maps the audit response workflow and. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 为企业识别非正常户、逾期申报、风险纳税人等税务异常，梳理稽查应对流程、自查补正与滞纳金测算。仅作规划辅助，不构成税务意见，需人工复核。
 tags:
   - 税务异常

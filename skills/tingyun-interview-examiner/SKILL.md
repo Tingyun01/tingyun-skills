@@ -1,9 +1,9 @@
 ---
 slug: tingyun-interview-examiner
 name: tingyun-interview-examiner
-version: 1.0.0
+version: 1.0.1
 displayName: 面试考官与应答教练
-description: "扮演真考官逐层追问，按证据具体度等四个维度打分，指出套路化回答并给出事实动作结果版改写。技术触发词「模拟面试、应答评分、答案改写」。口语触发词「按社区工作者岗位给我模拟面试，每个回答都追问我、这是我回答自我介绍的稿子，给我打分并改写、我哪些回答听起来像背的」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Mock interview examiner for job candidates. Asks position-specific questions, scores answers against observable dimensions, identifies rehearsed or generic responses, rewrites them into specific evidence-based answers, and applies realistic follow-up pressure. Practice and coaching only. Covers:\ 模拟面试, 应答评分, 答案改写. Use when the user asks to mock interview examiner for job candidates. Mock interview examiner for job candidates. Asks position-specific questions, scores answers against observable dimensions, identifies rehearsed or generic responses, rewrites them into specific. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "扮演真考官逐层追问，按证据具体度等四个维度打分，指出套路化回答并给出事实动作结果版改写。技术触发词「模拟面试、应答评分、答案改写」。口语触发词「按社区工作者岗位给我模拟面试，每个回答都追问我、这是我回答自我介绍的稿子，给我打分并改写、我哪些回答听起来像背的」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Mock interview examiner for job candidates. Asks position-specific questions, scores answers against observable dimensions, identifies rehearsed or generic responses, rewrites them into specific evidence-based answers, and applies realistic follow-up pressure. Practice and coaching only. Covers:\ 模拟面试, 应答评分, 答案改写. Use when the user asks to mock interview examiner for job candidates. Mock interview examiner for job candidates. Asks position-specific questions, scores answers against observable dimensions, identifies rehearsed or generic responses, rewrites them into specific. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 扮演真考官逐层追问，按证据具体度等四个维度打分，指出套路化回答并给出事实动作结果版改写。
 tags:
   - 模拟面试

@@ -1,9 +1,9 @@
 ---
 slug: tingyun-skill-monetization-operator
 name: tingyun-skill-monetization-operator
-version: 1.0.1
+version: 1.0.2
 displayName: 技能变现运营师
-description: "帮独立开发者把技能卖出价：定价、卡密批次、观察期排布、渠道组合、退换处理。技术触发词「定价策略、卡密批次、渠道组合」。口语触发词「同类技能都卖 9 到 29 块，我该定多少，为什么、平台说只能挂一个付费资产，我该怎么排上线顺序、卡密批次该怎么设计，退款怎么处理才不会泄露」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Monetization operations advisor for independent developers and skill authors on the WorkBuddy open platform. Covers price positioning against comparable listings, license-key batch management, observation-period constraints, channel selection and after-sales handling such as refunds and device limits. Operations guidance only. Covers:\ 定价策略, 卡密批次, 渠道组合. Use when the user asks to monetization operations advisor for independent developers. Monetization operations advisor for independent developers and skill authors on the WorkBuddy open platform. Covers price positioning against comparable listings, license-key batch management,. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "帮独立开发者把技能卖出价：定价、卡密批次、观察期排布、渠道组合、退换处理。技术触发词「定价策略、卡密批次、渠道组合」。口语触发词「同类技能都卖 9 到 29 块，我该定多少，为什么、平台说只能挂一个付费资产，我该怎么排上线顺序、卡密批次该怎么设计，退款怎么处理才不会泄露」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Monetization operations advisor for independent developers and skill authors on the WorkBuddy open platform. Covers price positioning against comparable listings, license-key batch management, observation-period constraints, channel selection and after-sales handling such as refunds and device limits. Operations guidance only. Covers:\ 定价策略, 卡密批次, 渠道组合. Use when the user asks to monetization operations advisor for independent developers. Monetization operations advisor for independent developers and skill authors on the WorkBuddy open platform. Covers price positioning against comparable listings, license-key batch management,. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 帮独立开发者把技能卖出价：定价、卡密批次、观察期排布、渠道组合、退换处理。
 tags:
   - 定价策略

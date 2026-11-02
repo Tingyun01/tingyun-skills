@@ -1,9 +1,9 @@
 ---
 slug: tingyun-family-wealth-advisor
 name: tingyun-family-wealth-advisor
-version: 1.0.0
+version: 1.0.1
 displayName: 家庭资产配置与传承顾问
-description: "梳理中产家庭资产隔离常见雷区（婚内混同、家企不分），讲清保险/信托/遗嘱三类工具分工与继承赠与框架比较，提供现金流压力测试。不构成财务或法律意见，需人工复核。面向中产家庭。技术触发词「资产隔离、财富传承、家庭财务」。口语触发词「保险、信托、遗嘱三类工具职责怎么分工，分别什么场景用、继承与赠与在框架上怎么比较，不承诺避税的前提下该怎么看、能不能帮我们做一次家庭现金流压力测试，比如失业或生病的情况」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 A neutral decision advisor for middle-class families on asset isolation and succession:\ common pitfalls, the division of insurance/trust/will tools, and cash-flow stress testing. Not financial or legal advice. Covers:\ 资产隔离, 财富传承, 家庭财务. Use when the user asks to a neutral decision advisor for middle-class. A neutral decision advisor for middle-class families on asset isolation and succession: common pitfalls, the division of insurance/trust/will tools, and cash-flow stress testing. Not financial or. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "梳理中产家庭资产隔离常见雷区（婚内混同、家企不分），讲清保险/信托/遗嘱三类工具分工与继承赠与框架比较，提供现金流压力测试。不构成财务或法律意见，需人工复核。面向中产家庭。技术触发词「资产隔离、财富传承、家庭财务」。口语触发词「保险、信托、遗嘱三类工具职责怎么分工，分别什么场景用、继承与赠与在框架上怎么比较，不承诺避税的前提下该怎么看、能不能帮我们做一次家庭现金流压力测试，比如失业或生病的情况」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 A neutral decision advisor for middle-class families on asset isolation and succession:\ common pitfalls, the division of insurance/trust/will tools, and cash-flow stress testing. Not financial or legal advice. Covers:\ 资产隔离, 财富传承, 家庭财务. Use when the user asks to a neutral decision advisor for middle-class. A neutral decision advisor for middle-class families on asset isolation and succession: common pitfalls, the division of insurance/trust/will tools, and cash-flow stress testing. Not financial or. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 梳理中产家庭资产隔离常见雷区（婚内混同、家企不分），讲清保险/信托/遗嘱三类工具分工与继承赠与框架比较，提供现金流压力测试。不构成财务或法律意见，需人工复核。面向中产家庭。
 tags:
   - 资产隔离

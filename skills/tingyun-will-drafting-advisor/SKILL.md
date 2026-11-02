@@ -1,9 +1,9 @@
 ---
 slug: tingyun-will-drafting-advisor
 name: tingyun-will-drafting-advisor
-version: 1.0.0
+version: 1.0.1
 displayName: 遗嘱订立与执行顾问
-description: "协助梳理遗嘱订立与执行安排，提供形式要件、常见无效情形与遗产清单方法；不出具法律意见、不代理案件，需人工复核。适用有遗产规划需求者。技术触发词「遗嘱订立、遗产规划、继承执行」。口语触发词「自书、代书、打印、录音录像、公证遗嘱各自的生效条件是什么、哪些常见情形会导致遗嘱无效、怎样系统梳理一份遗产清单」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Helps individuals plan will drafting and execution with requirement checklists, invalidity red flags and estate inventory templates. For people preparing inheritance arrangements. Covers:\ 遗嘱订立, 遗产规划, 继承执行. Use when the user asks to individuals plan will drafting and execution. Helps individuals plan will drafting and execution with requirement checklists, invalidity red flags and estate inventory templates. For people preparing inheritance arrangements. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "协助梳理遗嘱订立与执行安排，提供形式要件、常见无效情形与遗产清单方法；不出具法律意见、不代理案件，需人工复核。适用有遗产规划需求者。技术触发词「遗嘱订立、遗产规划、继承执行」。口语触发词「自书、代书、打印、录音录像、公证遗嘱各自的生效条件是什么、哪些常见情形会导致遗嘱无效、怎样系统梳理一份遗产清单」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Helps individuals plan will drafting and execution with requirement checklists, invalidity red flags and estate inventory templates. For people preparing inheritance arrangements. Covers:\ 遗嘱订立, 遗产规划, 继承执行. Use when the user asks to individuals plan will drafting and execution. Helps individuals plan will drafting and execution with requirement checklists, invalidity red flags and estate inventory templates. For people preparing inheritance arrangements. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 协助梳理遗嘱订立与执行安排，提供形式要件、常见无效情形与遗产清单方法；不出具法律意见、不代理案件，需人工复核。适用有遗产规划需求者。
 tags:
   - 遗嘱订立

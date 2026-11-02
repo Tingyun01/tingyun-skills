@@ -1,9 +1,9 @@
 ---
 slug: tingyun-divorce-asset-advisor
 name: tingyun-divorce-asset-advisor
-version: 1.0.0
+version: 1.0.1
 displayName: 离婚财产分割决策顾问
-description: "协助梳理离婚财产分割决策，提供共同财产识别、房产与股权分割及债务分担清单；不出具法律意见、不代理案件，需人工复核。适用面临财产分割者。技术触发词「财产分割、离婚决策、债务分担」。口语触发词「哪些是夫妻共同财产、哪些算个人、房产离婚怎么分、股权和经营资产离婚分割的难点在哪」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Helps individuals plan divorce asset division with checklists for joint-property identification, real-estate and equity division, and debt allocation. For people facing asset division. Covers:\ 财产分割, 离婚决策, 债务分担. Use when the user asks to property division. Helps individuals plan divorce asset division with checklists for joint-property identification, real-estate and equity division, and debt allocation. For people facing asset division. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "协助梳理离婚财产分割决策，提供共同财产识别、房产与股权分割及债务分担清单；不出具法律意见、不代理案件，需人工复核。适用面临财产分割者。技术触发词「财产分割、离婚决策、债务分担」。口语触发词「哪些是夫妻共同财产、哪些算个人、房产离婚怎么分、股权和经营资产离婚分割的难点在哪」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Helps individuals plan divorce asset division with checklists for joint-property identification, real-estate and equity division, and debt allocation. For people facing asset division. Covers:\ 财产分割, 离婚决策, 债务分担. Use when the user asks to property division. Helps individuals plan divorce asset division with checklists for joint-property identification, real-estate and equity division, and debt allocation. For people facing asset division. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 协助梳理离婚财产分割决策，提供共同财产识别、房产与股权分割及债务分担清单；不出具法律意见、不代理案件，需人工复核。适用面临财产分割者。
 tags:
   - 财产分割

@@ -1,10 +1,10 @@
 ---
 slug: tingyun-insurance-sales-compliance
 name: tingyun-insurance-sales-compliance
-version: 1.0.0
+version: 1.0.1
 displayName: 保险销售合规自查顾问
 summary: "按监管处罚案例逐条体检保险销售全流程合规状况，输出风险分级与整改台账"
-description: "面向中小保险中介机构、保险专业代理机构与转型独立代理人的销售合规自查顾问。按双录、销售适当性、夸大承诺、返佣费用、保费管理、未如实告知、销售误导、无证展业、自保互保、数据消保十组三十项检查，逐项给出怎么查、常见表现、监管依据与风险等级，配套真实行政处罚案例库与可自查脚本，输出风险分级与整改台账。技术触发词「销售合规自查、双录质检、适当性匹配、处罚案例」。口语触发词「我们支公司双录怎么做才不会被罚、销售适当性要留哪些东西、有哪些保险销售的红线不能碰」。输出可直接使用的清单、对照表与行动项。仅作合规自查与整改辅助，不构成法律意见或监管认定结论，需人工复核。 Insurance sales compliance self-check advisor for small and mid-sized insurance agencies, professional intermediary branches, and independent agents transitioning to solo practice. Breaks the review into ten groups and thirty checks covering double-recording, suitability, misrepresentation, rebates, premium handling, duty of disclosure, marketing conduct, unlicensed selling, self-policing, and data protection, each with the concrete audit procedure, typical red flags, regulatory basis, and risk tier. Bundles a real enforcement case library and a runnable self-check script that outputs risk grading and a remediation tracker. Does not issue legal opinions or regulatory determinations; human review is required."
+description: "面向中小保险中介机构、保险专业代理机构与转型独立代理人的销售合规自查顾问。按双录、销售适当性、夸大承诺、返佣费用、保费管理、未如实告知、销售误导、无证展业、自保互保、数据消保十组三十项检查，逐项给出怎么查、常见表现、监管依据与风险等级，配套真实行政处罚案例库与可自查脚本，输出风险分级与整改台账。技术触发词「销售合规自查、双录质检、适当性匹配、处罚案例」。口语触发词「我们支公司双录怎么做才不会被罚、销售适当性要留哪些东西、有哪些保险销售的红线不能碰」。输出可直接使用的清单、对照表与行动项。仅作合规自查与整改辅助，不构成法律意见或监管认定结论，需人工复核。 Insurance sales compliance self-check advisor for small and mid-sized insurance agencies, professional intermediary branches, and independent agents transitioning to solo practice. Breaks the review into ten groups and thirty checks covering double-recording, suitability, misrepresentation, rebates, premium handling, duty of disclosure, marketing conduct, unlicensed selling, self-policing, and data protection, each with the concrete audit procedure, typical red flags, regulatory basis, and risk tier. Bundles a real enforcement case library and a runnable self-check script that outputs risk grading and a remediation tracker. Does not issue legal opinions or regulatory determinations; human review is required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 license: MIT
 tags: ["保险", "合规", "双录", "适当性", "销售管理", "自查清单"]
 agent_created: true

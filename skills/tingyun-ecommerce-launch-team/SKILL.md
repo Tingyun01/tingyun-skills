@@ -1,9 +1,9 @@
 ---
 slug: tingyun-ecommerce-launch-team
 name: tingyun-ecommerce-launch-team
-version: 1.0.0
+version: 1.0.1
 displayName: 电商新店开业作战团
-description: "三人作战团：先排资质与红线风险序，再把选品、合规、素材三路排出先后与验收标准，输出可执行的开店计划。技术触发词「开店作战计划、风险排序、从零到一」。口语触发词「我要开个新店，帮我排出从0到1的作战顺序和风险序、开店前我必须先拿到哪些资质、帮我把这个品的首屏素材和客服高频问答一次做出来」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Three-member expert team for opening a new e-commerce store. A lead commander sequences merchandising, compliance and creative work into one executable launch plan, with a risk order that puts credential and red-line blockers first. No sales promises, no agency service. Covers:\ 开店作战计划, 风险排序, 从零到一. Use when the user asks to three-member expert team for opening. Three-member expert team for opening a new e-commerce store. A lead commander sequences merchandising, compliance and creative work into one executable launch plan, with a risk order that puts. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "三人作战团：先排资质与红线风险序，再把选品、合规、素材三路排出先后与验收标准，输出可执行的开店计划。技术触发词「开店作战计划、风险排序、从零到一」。口语触发词「我要开个新店，帮我排出从0到1的作战顺序和风险序、开店前我必须先拿到哪些资质、帮我把这个品的首屏素材和客服高频问答一次做出来」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Three-member expert team for opening a new e-commerce store. A lead commander sequences merchandising, compliance and creative work into one executable launch plan, with a risk order that puts credential and red-line blockers first. No sales promises, no agency service. Covers:\ 开店作战计划, 风险排序, 从零到一. Use when the user asks to three-member expert team for opening. Three-member expert team for opening a new e-commerce store. A lead commander sequences merchandising, compliance and creative work into one executable launch plan, with a risk order that puts. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 三人作战团：先排资质与红线风险序，再把选品、合规、素材三路排出先后与验收标准，输出可执行的开店计划。
 tags:
   - 开店作战计划

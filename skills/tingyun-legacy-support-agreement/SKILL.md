@@ -1,9 +1,9 @@
 ---
 slug: tingyun-legacy-support-agreement
 name: tingyun-legacy-support-agreement
-version: 1.0.0
+version: 1.0.1
 displayName: 遗赠扶养协议顾问
-description: "协助梳理遗赠扶养协议安排，提供生效要件、扶养量化与争议预防清单；不出具法律意见、不代理案件，需人工复核。适用有养老照护与财产传承需求者。技术触发词「遗赠扶养、养老照护、协议规划」。口语触发词「遗赠扶养协议的生效要件有哪些、扶养义务怎么量化才不容易扯皮、遗赠扶养协议和遗嘱、赠与有什么区别」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Helps individuals plan legacy-support agreements with validity checklists, care obligation quantification and dispute-prevention templates. For elder-care and inheritance planning. Covers:\ 遗赠扶养, 养老照护, 协议规划. Use when the user asks to legacy support agreement. Helps individuals plan legacy-support agreements with validity checklists, care obligation quantification and dispute-prevention templates. For elder-care and inheritance planning. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "协助梳理遗赠扶养协议安排，提供生效要件、扶养量化与争议预防清单；不出具法律意见、不代理案件，需人工复核。适用有养老照护与财产传承需求者。技术触发词「遗赠扶养、养老照护、协议规划」。口语触发词「遗赠扶养协议的生效要件有哪些、扶养义务怎么量化才不容易扯皮、遗赠扶养协议和遗嘱、赠与有什么区别」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Helps individuals plan legacy-support agreements with validity checklists, care obligation quantification and dispute-prevention templates. For elder-care and inheritance planning. Covers:\ 遗赠扶养, 养老照护, 协议规划. Use when the user asks to legacy support agreement. Helps individuals plan legacy-support agreements with validity checklists, care obligation quantification and dispute-prevention templates. For elder-care and inheritance planning. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 协助梳理遗赠扶养协议安排，提供生效要件、扶养量化与争议预防清单；不出具法律意见、不代理案件，需人工复核。适用有养老照护与财产传承需求者。
 tags:
   - 遗赠扶养

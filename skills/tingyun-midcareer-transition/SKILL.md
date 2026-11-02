@@ -1,9 +1,9 @@
 ---
 slug: tingyun-midcareer-transition
 name: tingyun-midcareer-transition
-version: 1.0.0
+version: 1.0.1
 displayName: 35加中年转型再就业顾问
-description: "梳理35岁以上转型的真实约束（现金流安全垫、技能折旧、年龄歧视行业），评估可转方向与年龄叙事、副业转主业路径。不含代写简历与岗位推荐。面向35+转行人群。技术触发词「职业转型、中年再就业、技能折旧」。口语触发词「哪些行业对35岁以上求职者年龄歧视明显，我应该避开或谨慎、面试时被问“你这个年纪为什么还要转行”，我该怎么讲年龄叙事、我现在有副业月入3000，怎么判断能不能转成主业」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 An advisor for professionals aged 35+ considering a career change. It maps real constraints (cash-flow cushion, skill depreciation, age-bias industries), evaluates transferable directions, and structures the transition narrative. Covers:\ 职业转型, 中年再就业, 技能折旧. Use when the user asks to an advisor for professionals aged 35+. An advisor for professionals aged 35+ considering a career change. It maps real constraints (cash-flow cushion, skill depreciation, age-bias industries), evaluates transferable directions, and. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "梳理35岁以上转型的真实约束（现金流安全垫、技能折旧、年龄歧视行业），评估可转方向与年龄叙事、副业转主业路径。不含代写简历与岗位推荐。面向35+转行人群。技术触发词「职业转型、中年再就业、技能折旧」。口语触发词「哪些行业对35岁以上求职者年龄歧视明显，我应该避开或谨慎、面试时被问“你这个年纪为什么还要转行”，我该怎么讲年龄叙事、我现在有副业月入3000，怎么判断能不能转成主业」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 An advisor for professionals aged 35+ considering a career change. It maps real constraints (cash-flow cushion, skill depreciation, age-bias industries), evaluates transferable directions, and structures the transition narrative. Covers:\ 职业转型, 中年再就业, 技能折旧. Use when the user asks to an advisor for professionals aged 35+. An advisor for professionals aged 35+ considering a career change. It maps real constraints (cash-flow cushion, skill depreciation, age-bias industries), evaluates transferable directions, and. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 梳理35岁以上转型的真实约束（现金流安全垫、技能折旧、年龄歧视行业），评估可转方向与年龄叙事、副业转主业路径。不含代写简历与岗位推荐。面向35+转行人群。
 tags:
   - 职业转型

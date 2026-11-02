@@ -1,9 +1,9 @@
 ---
 slug: tingyun-guardianship-estate-advisor
 name: tingyun-guardianship-estate-advisor
-version: 1.0.0
+version: 1.0.1
 displayName: 意定监护与遗产管理顾问
-description: "协助梳理意定监护与遗产管理安排，提供协议要点、决策清单与结构梳理；不出具法律意见、不代理案件，需人工复核。适用有照护与传承安排需求者。技术触发词「意定监护、遗产管理、养老照护规划」。口语触发词「意定监护协议里，监护人和监督人该怎么设、失能失智前，我该提前安排哪些事项、意定监护和法定监护有什么区别」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Helps individuals structure voluntary guardianship and estate management arrangements with checklists, comparison tables and planning frameworks. For families planning long-term care and inheritance. Covers:\ 意定监护, 遗产管理, 养老照护规划. Use when the user asks to voluntary guardianship. Helps individuals structure voluntary guardianship and estate management arrangements with checklists, comparison tables and planning frameworks. For families planning long-term care and inheritance. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required."
+description: "协助梳理意定监护与遗产管理安排，提供协议要点、决策清单与结构梳理；不出具法律意见、不代理案件，需人工复核。适用有照护与传承安排需求者。技术触发词「意定监护、遗产管理、养老照护规划」。口语触发词「意定监护协议里，监护人和监督人该怎么设、失能失智前，我该提前安排哪些事项、意定监护和法定监护有什么区别」。输出可直接使用的清单、对照表与行动项。仅作规划与清单辅助，不构成法律/税务/医疗专业意见，需人工复核。 Helps individuals structure voluntary guardianship and estate management arrangements with checklists, comparison tables and planning frameworks. For families planning long-term care and inheritance. Covers:\ 意定监护, 遗产管理, 养老照护规划. Use when the user asks to voluntary guardianship. Helps individuals structure voluntary guardianship and estate management arrangements with checklists, comparison tables and planning frameworks. For families planning long-term care and inheritance. Output: structured checklist, comparison table, and prioritized action list. Planning aid only, not professional legal, tax, or medical advice; human review required. English edition and bundles: https://www.agensi.io/r/CREATOR8796142 (catalogue: https://github.com/Tingyun01/tingyun-skills)."
 summary: 协助梳理意定监护与遗产管理安排，提供协议要点、决策清单与结构梳理；不出具法律意见、不代理案件，需人工复核。适用有照护与传承安排需求者。
 tags:
   - 意定监护
